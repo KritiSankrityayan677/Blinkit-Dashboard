@@ -29,20 +29,22 @@ To provide a comprehensive, interactive view of Blinkit's sales data, segmented 
 
 📈 Walkthrough of Key Visuals
 
-Total Sales and Item Count Cards: Quick snapshot of overall business performance.
-Average Rating Visual: Understand customer satisfaction at a glance.
-Outlet Performance Charts: Sales and ratings analyzed by outlet size and location.
-Item Type and Fat Content Breakdown: Identifies best-selling categories and product composition.
-Filters (Slicers): Allow users to drill down by outlet location, size, item type, and fat content.
+* Total Sales and Item Count Cards: Quick snapshot of overall business performance.
+* Average Rating Visual: Understand customer satisfaction at a glance.
+* Outlet Performance Charts: Sales and ratings analyzed by outlet size and location.
+* Item Type and Fat Content Breakdown: Identifies best-selling categories and product composition.
+* Filters (Slicers): Allow users to drill down by outlet location, size, item type, and fat content.
 
 📊 Business Impact and Insights
 
-Identify High-Performing Outlets: Enables the business to replicate successful models in other regions.
-Optimize Inventory Planning: Understand which item types contribute most to sales.
-Improve Customer Experience: Leverage rating data to pinpoint areas for service improvement.
-Strategic Expansion: Guides data-driven decisions about opening or scaling outlets based on size and location performance.
+* Identify High-Performing Outlets: Enables the business to replicate successful models in other regions.
+* Optimize Inventory Planning: Understand which item types contribute most to sales.
+* Improve Customer Experience: Leverage rating data to pinpoint areas for service improvement.
+* Strategic Expansion: Guides data-driven decisions about opening or scaling outlets based on size and location performance.
 
-DASHBOARD PREVIEW
+DASHBOARD PREVIEW - 
+
+https://github.com/KritiSankrityayan677/Blinkit-Dashboard/blob/faf3a8cadff0ef0523cbcec3a96370403d688dfd/Dashboard%20screenshot.png
 
 
 
